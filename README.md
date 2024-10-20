@@ -1,6 +1,6 @@
 # Netflix Movie Recommendation System
 
-This project is a **Content-Based Movie Recommendation System** that suggests similar movies based on the description and genre. Built using **Streamlit** for the front-end and leveraging **CountVectorizer** and **Cosine Similarity** from **scikit-learn**, this system helps users find movies similar to the ones they like.
+This project is a **Movie Recommendation System** that suggests similar movies based on the description and genre. Built using **Streamlit** for the front-end and leveraging **CountVectorizer** and **Cosine Similarity** from **scikit-learn**, this system helps users find movies similar to the ones they like.
 
 ## Features
 
@@ -17,7 +17,6 @@ This project is a **Content-Based Movie Recommendation System** that suggests si
 - [Project Structure](#project-structure)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
